@@ -96,3 +96,24 @@ h1{
     line-height: 24px;
     color: rgba(18, 16, 12, 0.7);
 }
+header{
+    margin-bottom: 18px;
+}
+.select_project{
+    margin-bottom: 18px;
+}
+.select_project .container{
+    padding: 160px 116px;
+    text-align: center;
+}
+.select_text {
+    color: #12100C;
+    font-size: 54px;
+    line-height: 64px;
+    font-weight: 700;
+}
+.select_text span{
+    text-decoration: line-through;
+    color: #999795;    
+    font-weight: 400;
+}
